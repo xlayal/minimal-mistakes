@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "xiaoyan" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "个人搭建网站"
+title                    : "xlayal的网站"
 title_separator          : ":"
 name                     : "詹晓燕"
 description              : "使用jekyll搭建的网站"

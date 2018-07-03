@@ -3,7 +3,7 @@
    ========================================================================== */
 
 /* Colors */
-$background-color: #ECAA99 !default;
+$background-color: #F7D2C7 !default;
 $text-color: #40514e !default;
 $muted-text-color: #40514e !default;
 $primary-color: #11999e !default;
@@ -21,3 +21,8 @@ $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 .page__footer-follow .social-icons .svg-inline--fa {
   color: inherit;
 }
+
+
+$serif: DFKai-SB,Kai,Kaiti SC,KaiTi,BiauKai,\\6977\4F53,\\6977\4F53_GB2312,Songti SC,Georgia, Times, serif !default;
+$sans-serif: "Helvetica Neue",YouYuan,\\5E7C\5706,幼圆,"Segoe UI",-apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI","Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+$monospace: Monaco, Consolas, "Lucida Console", monospace !default;
