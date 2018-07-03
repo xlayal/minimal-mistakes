@@ -168,7 +168,38 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-
+# Collections
+collections:
+  svg:
+    output: true
+    permalink: /:collection/:path/
+    
+# Defaults  
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+        
+      # _svg
+  - scope:
+      path: ""
+      type: svg
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+    
+    
+    
 # Conversion
 markdown: kramdown
 highlighter: rouge
