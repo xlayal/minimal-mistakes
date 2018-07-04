@@ -188,7 +188,7 @@ defaults:
       share: true
       related: true
       sidebar:
-        nav: "_posts"
+       nav: "docs"
         
       # _svg
   - scope:
