@@ -10,3 +10,21 @@ main:
     url: /design/#平面设计
   - title: "关于我"
     url: /about/
+    
+
+
+
+# documentation links
+posts:
+  - title: Navigation
+    children:
+      - title: "简书"
+        url: https://www.jianshu.com/u/df13b36a552c
+      - title: "SVG制作"
+        url: /svg/
+      - title: "界面设计"
+        url: /design/#界面设计
+      - title: "平面设计"
+        url: /design/#平面设计
+      - title: "关于我"
+        url: /about/
