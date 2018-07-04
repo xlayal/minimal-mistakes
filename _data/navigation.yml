@@ -15,7 +15,7 @@ main:
 
 
 # documentation links
-posts:
+_posts:
   - title: Navigation
     children:
       - title: "简书"
