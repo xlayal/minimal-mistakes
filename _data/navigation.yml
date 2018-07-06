@@ -14,7 +14,7 @@ main:
 
 
 
-# documentation links
+# sidebar menu links
 docs:
   - title: Navigation
     children:
