@@ -24,6 +24,7 @@ url                      : "https://xlayal.gitee.io"
 baseurl                  : "/minimal-mistakes" 
 repository               : "xlayal/minimal-mistakes"
 teaser                   : "500x300.png"
+affiliation             :<a href = 'http://www.nfu.edu.cn/'>  "中山大学南方学院 </a><a href = 'http://newmedia.nfu.edu.cn/zh/'>网络与新媒体专业</a> 
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -303,4 +304,4 @@ defaults:
       share: true
       related: true
       sidebar:
-        nav: "docs"
+        /nav: "docs"
