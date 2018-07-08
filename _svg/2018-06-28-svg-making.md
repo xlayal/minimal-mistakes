@@ -1,11 +1,6 @@
 ---
 title:  "简单的SVG效果：沿运动路径移动、旋转并缩放的特效"
-modified: 2018-06-28 
-categories: 
-  - 平面设计
-tags:
-  - 笔记
-toc_label: true
+
 header:
   overlay_image: images/unsplash-image-6.JPG
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
@@ -13,13 +8,10 @@ header:
   cta_url: "https://unsplash.com"
 ---
 
-{% include base_path %}
-
-{% include toc title="目录" %}
 
 
 ### 今天来给大家分享一下如何制作间的SVG动画效果——
-### 首先使用到的工具是AI，打开AI并且新建一个文件
+### 首先使用到的工具是AI ，打开AI并且新建一个文件
 
 ### 简单绘制一个多边形，填充颜色
 
@@ -36,7 +28,7 @@ header:
 
 <!DOCTYPE html>
 <html>
-	<head>
+   <head>
 		<meta charset="{CHARSET}">
 		<title></title>
 	</head>
