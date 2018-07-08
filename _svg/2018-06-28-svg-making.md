@@ -30,10 +30,6 @@ header:
 
 <!DOCTYPE html>
 <html>
-    <head>
-		<meta charset="{CHARSET}">
-		<title></title>
-	</head>
 	<body>
 		<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
