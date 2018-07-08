@@ -187,11 +187,8 @@ defaults:
       read_time: true
       comments: true
       share: true
-      related: true
-      sidebar:
-        nav: "docs"
-        
-      # _svg
+      related: true        
+   # _svg
   - scope:
       path: ""
       type: svg
