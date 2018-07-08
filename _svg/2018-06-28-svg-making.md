@@ -10,9 +10,9 @@ header:
 
 {% include base_path %}
 
+{% include toc title="目录" %}
 
 ### 今天来给大家分享一下如何制作间的SVG动画效果——沿运动路径移动、旋转并缩放的特效
-
 ### 第一步：（首先使用到的工具是AI）打开AI并且新建一个文件
 ![svg1_1.png](https://s20.postimg.cc/4rpf6myfh/svg1_1.png)
 ### 第二步：简单绘制一个多边形，填充颜色
