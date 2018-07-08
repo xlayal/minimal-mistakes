@@ -1,6 +1,5 @@
 ---
 title:  "简单的SVG效果：沿运动路径移动、旋转并缩放的特效"
-
 header:
   overlay_image: images/unsplash-image-6.JPG
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
