@@ -288,5 +288,3 @@ compress_html:
   ignore:
     envs: development
 
-
-#
