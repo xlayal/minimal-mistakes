@@ -3,7 +3,7 @@ main:
   - title: "简书"
     url: https://www.jianshu.com/u/df13b36a552c
   - title: "SVG制作"
-    url: /svg/
+    url: /design/#svg
   - title: "界面设计"
     url: /design/#界面设计
   - title: "平面设计"
@@ -14,14 +14,13 @@ main:
 
 
 
-# sidebar menu links
 docs:
   - title: Navigation
     children:
       - title: "简书"
         url: https://www.jianshu.com/u/df13b36a552c
       - title: "SVG制作"
-        url: /svg/
+        url: https://xlayal.gitee.io/minimal-mistakes/svg/
       - title: "界面设计"
         url: /design/#界面设计
       - title: "平面设计"
