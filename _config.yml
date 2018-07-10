@@ -196,7 +196,15 @@ collections:
   svg:
     output: true
     permalink: /:collection/:path/
-
+    
+defaults:
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
 
 # Defaults  
 defaults:
